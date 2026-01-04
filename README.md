@@ -16,3 +16,7 @@ Load up Call of the Dead with your teammate(s), use `sp_minplayers` to ensure ev
 Once round 1 begins, the Waffe stat is awarded, and the game will end.
 
 Remove `waffe_award.gsc` file, and you can play out your game.
+
+# Download
+
+[Go here](https://github.com/B2ORG/T5-WaffeAwardStats/blob/main/waffe_award.gsc), press download in the top right part of the page.
